@@ -1,0 +1,18 @@
+/* style.css */
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+h2 {
+  color: #343a40;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+.card {
+  margin-top: 20px;
+}
